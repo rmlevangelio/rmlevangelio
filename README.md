@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, good to see you here! 👋
 
+I'm Remiel, a not-so-typical frontend manager. Yep, you heard it right. I've been working as Senior Frontend Developer for the last 8 years and got promoted as Senior Engineering Manager recently. My passion for coding is out of this world. I always keep myself informed about latest tech trends about frontend ecosystem, especially about React, Typescript, Next JS and many more. 
 
+Whenever I'm not around the office, you can find me inside a basketball court or in a cafe nearby reading some good book. Recommend me some good ones and I'll give my regards straightaway :)
 
 <!--
 **rmlevangelio/rmlevangelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
